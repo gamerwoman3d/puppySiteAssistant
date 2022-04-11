@@ -1,0 +1,65 @@
+bug tracker
+site assistant
+requests
+open closed or under development
+
+issue tracker workflow
+
+every dev manager has a bug tracker [jira]
+how should we handle notification
+how should we handle attachments
+How do we handle the collection of items
+
+how's it architected.
+change the logo call it a helpdesk ticket system, site assist automation, delivery notification system
+Logo = dog clippy Microsoft word assistant
+
+Construction Phase to Deliverable
+
+build an SRS software requirement specification
+write all the benefits and features we want to have in this project
+take off the features and benefits and divide it up into one week sprints
+
+create ui
+create database
+tracks your progress and keep up with the deadlines
+--The intended use of the puppySiteAssistant is to track the progress of creating the puppySiteAssitant and the puppySite
+sprints iterations over time 
+focus on process to get to product through sprint iterations
+
+"use the bug tracker that you're building to track the progress on your own project"
+
+with the progress as you 
+take srs take weekly sprints
+show it with the project you built ans show them how you went through the construction phase [in the init next meeting and followup interview]
+
+"Honestly if you are working a project sprint on a SRS and used the SRS software on the project as you built it, that is next level" but that's what we're trying to do.
+
+follow an architectural or design pattern [how you organize your files and your folders on your disk to produce websites]
+repeatable process
+easy to debug, fix, and maintain
+
+build project with design pattern
+NBC MVC model view controller design pattern
+
+take bootstrap and get a template on your project
+do not need to build from scratch - company is already integrating auth-zero, oauth and bootstrap templates and are more interested in paying to implement things that are already extant vs. engineering them from scratch.  Company loves to save time.
+make a database - it has to be a database
+crud options - it has to have create, write, read, update, delete.
+crud options - like to have admin ability to edit, and archive.
+authentication and authorization login page
+auth-zero
+
+go from interviewee to consultant
+make sure it solves a business problem
+
+NBC design pattern, a professional UI, a database, handle security,
+and solve a complex business problem
+
+wishlist:
+-issue tracker workflow -sort by most recent/oldest -sort alphabetically -filter closed or open bugs -search -login securely -ui -CRUD -database -add bugs and comments with the press of a button -register new account and assign them user -nav bar to easily navigate the page -close or reclassify bugs -classifications: open, closed, urgent, [not fixing] -needs login form -register form -admin status -search booleans feature -additional security via oauth -NBC design pattern -crud options -authentication and authorization login page -auth-zero added security integration -bootstrap template for most professional looking ui -custom puppy interactive helper icon -NBC MVC model view controller design pattern
+
+Optimizations: What you would have done if you had more time!
+tricks out the seo
+
+
