@@ -1,1 +1,5 @@
 use microsoft authentication to access bug tracker
+
+client meeting notes?
+pull in data from client this week and display whether or not the data has been marked read 
+or marked complete
