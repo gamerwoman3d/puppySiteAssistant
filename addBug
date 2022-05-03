@@ -1,0 +1,6 @@
+//fix error
+Error: Cannot find module '.config/passport'
+Require stack:
+
+passport.js is listed in config folder.  
+Proofread for Require typos.
