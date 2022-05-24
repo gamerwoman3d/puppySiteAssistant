@@ -4,3 +4,4 @@ Require stack:
 
 passport.js is listed in config folder.  
 Proofread for Require() typos.
+Add bug to mongoDB to track.
